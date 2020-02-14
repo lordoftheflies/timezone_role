@@ -1,0 +1,8 @@
+---
+# roles/timezone/tasks/centos_6.yml
+
+
+- debug:
+    msg:
+      - "CentOS 6 not supported at this time"
+      - "System {{ inventory_hostname }} not configured"

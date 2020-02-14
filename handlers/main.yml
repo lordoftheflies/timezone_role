@@ -1,0 +1,4 @@
+---
+- name: reconfigure tzdata
+  command: dpkg-reconfigure -f noninteractive tzdata
+# vim: set ft=ansible ts=2 sts=2 sw=2 et:
