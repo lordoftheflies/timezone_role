@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ansible_role_skeleton/skeleton/Vagrantfile.j2">
           <value>
             <set />
@@ -34,6 +39,41 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/tasks/main.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../timezone_role/meta/main.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../timezone_role/tasks/centos_5.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../timezone_role/tasks/centos_6.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../timezone_role/tasks/centos_7.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../timezone_role/tasks/debian.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../timezone_role/tasks/debian_6.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../timezone_role/tasks/main.yml">
           <value>
             <set />
           </value>

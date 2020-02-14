@@ -10,9 +10,9 @@ lint:
   options:
     config-file: .ansible-lint
 platforms:
-  - name: timezone-xenial
+  - name: timezone_role-xenial
     box: cjsteel/xenial
-  - name: timezone-bionic
+  - name: timezone_role-bionic
     box: cjsteel/bionic
 provisioner:
   name: ansible

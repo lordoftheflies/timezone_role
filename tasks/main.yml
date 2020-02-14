@@ -1,7 +1,7 @@
 ---
-- name: Set the timezone
+- name: Set the timezone_role
   copy:
-    dest: /etc/timezone
+    dest: /etc/timezone_role
     content: "{{ timezone }}\n"
     mode: 0644
   notify: reconfigure tzdata

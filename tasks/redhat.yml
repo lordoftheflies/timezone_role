@@ -1,5 +1,5 @@
 ---
-# roles/timezone/tasks/redhat.yml
+# roles/timezone_role/tasks/redhat.yml
 
 
 - debug:

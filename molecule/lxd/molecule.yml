@@ -8,10 +8,10 @@ lint:
   options:
     config-file: .ansible-lint
 platforms:
-  - name: timezone-default-xenial
+  - name: timezone_role-default-xenial
     source:
       alias: ubuntu/xenial/amd64
-  - name: timezone-default-bionic
+  - name: timezone_role-default-bionic
     source:
       type: image
       alias: ubuntu/bionic/amd64

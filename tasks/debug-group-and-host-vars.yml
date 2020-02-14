@@ -1,5 +1,5 @@
 ---
-# roles/timezone/tasks/debug-group-and-host-vars.yml
+# roles/timezone_role/tasks/debug-group-and-host-vars.yml
 
 # Debug group_vars and host_vars values
 

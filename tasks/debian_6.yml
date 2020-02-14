@@ -1,5 +1,5 @@
 ---
-# roles/timezone/tasks/debian_6.yml
+# roles/timezone_role/tasks/debian_6.yml
 
 - debug:
     msg:

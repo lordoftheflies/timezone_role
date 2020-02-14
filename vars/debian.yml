@@ -1,5 +1,5 @@
 ---
-# roles/timezone/vars/debian.yml
+# roles/timezone_role/vars/debian.yml
 
 # Debian specific vars
 timezone_package_extension: 'deb'

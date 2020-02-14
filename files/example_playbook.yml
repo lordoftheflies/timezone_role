@@ -1,7 +1,7 @@
 ---
-# file: project/timezone.yml
+# file: project/timezone_role.yml
 
-- hosts: timezone
+- hosts: timezone_role
   become: false
   gather_facts: true
   pre_tasks:
@@ -9,9 +9,9 @@
     - set_fact: fact_role_name="{{ lookup('env','ANSIBLE_ROLE_NAME') }}"
     - debug: var=fact_role_name
 
-    - set_fact: fact_role_path="{{ lookup('pipe','pwd') }}/roles/timezone"
+    - set_fact: fact_role_path="{{ lookup('pipe','pwd') }}/roles/timezone_role"
     - debug: var=fact_role_path
 
   roles:
 
-    - timezone
+    - timezone_role

@@ -1,12 +1,12 @@
 ---
 dependencies: []
 galaxy_info:
-  role_name: 'timezone'
-  version: '1.0.0'
+  role_name: 'timezone_role'
+  version: '1.0.1'
   author: 'lordoftheflies'
-  description: 'Ansible Galaxy role for maintain timezone.'
+  description: 'Ansible Galaxy role for maintain timezone_role.'
   company: 'Cherubits'
-  license: MIT
+  license: 'Apache-2.0'
   min_ansible_version: '2.9'
   platforms:
     - name: Ubuntu
@@ -19,6 +19,6 @@ galaxy_info:
         - wheezy
   galaxy_tags:
     - cherubits
-    - timezone
+    - timezone_role
     - debian
     - ubuntu

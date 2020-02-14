@@ -1,5 +1,5 @@
 ---
-# roles/timezone/tasks/centos_6.yml
+# roles/timezone_role/tasks/centos_6.yml
 
 
 - debug:

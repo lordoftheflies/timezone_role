@@ -1,5 +1,5 @@
 ---
-# roles/timezone/tasks/debug.yml
+# roles/timezone_role/tasks/debug.yml
 
 # Include /tasks/debug-group-and-host-vars.yml
 

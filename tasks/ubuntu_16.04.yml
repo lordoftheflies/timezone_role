@@ -1,5 +1,5 @@
 ---
-# roles/timezone/tasks/ubuntu_16.04.yml
+# roles/timezone_role/tasks/ubuntu_16.04.yml
 
 - debug:
     msg:

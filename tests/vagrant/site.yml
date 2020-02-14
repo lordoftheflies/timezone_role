@@ -1,5 +1,5 @@
 ---
-# roles/timezone/tests/vagrant/site.yml
+# roles/timezone_role/tests/vagrant/site.yml
 
 # run any pre tasks on target node
 

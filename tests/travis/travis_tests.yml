@@ -1,6 +1,6 @@
---- # timezone/tests/travis_test.yml
+--- # timezone_role/tests/travis_test.yml
 
 - hosts: localhost
   become: true
   roles:
-    - timezone
+    - timezone_role

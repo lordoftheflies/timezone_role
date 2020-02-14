@@ -1,5 +1,5 @@
 ---
-# roles/timezone/defaults/main.yml
+# roles/timezone_role/defaults/main.yml
 
 timezone_debug: false
 
